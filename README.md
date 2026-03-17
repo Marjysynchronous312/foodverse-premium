@@ -108,9 +108,9 @@ cd foodverse-premium
 🌐 https://amjad.is-a.dev
 
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat&logo=x&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat"/></a>
+  <a href="https://www.instagram.com/heyitzamjad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/heyitzamjad"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/heyitzamjad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat"/></a>
 </p>
 
 ---
