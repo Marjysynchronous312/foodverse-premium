@@ -231,7 +231,7 @@ section{
 
 /* PARALLAX */
 .parallax{
-    background:url('images/parallax-background.jpg') center/cover fixed;
+    background:url('assets/images/parallax-background.jpg') center/cover fixed;
     height:400px;
     display:flex;
     align-items:center;
